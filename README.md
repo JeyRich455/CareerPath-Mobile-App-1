@@ -60,3 +60,21 @@ The project uses 20 selected occupational records.
 ## Project Status
 Initial mobile app implementation.
 Testing and GitHub documentation in progress.
+
+## Mobile App Development Progress
+
+CareerPath is being developed using HTML, CSS,
+JavaScript, and a CSV dataset containing 20
+career records.
+
+### Mobile Features
+- Responsive layout for smartphone screens
+- Career search by occupation title
+- Career category filtering
+- Salary comparison and sorting
+- Detailed career information
+
+### Current Development Status
+The initial application interface has been created.
+The next phase includes testing the search and
+filtering features in a mobile browser emulator.
